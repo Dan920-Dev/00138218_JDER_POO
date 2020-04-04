@@ -378,7 +378,7 @@ public class Main {
                 typeWeapon = JOptionPane.showInputDialog(null,"              Tipos de Arma Disponible\n " +
                         "Arco\n Espada\n Personal\n Orbe\n Daga");
                 if (typeWeapon.equalsIgnoreCase("arco") || typeWeapon.equalsIgnoreCase("espada") || typeWeapon.equalsIgnoreCase("personal")
-                                                                            || typeWeapon.equalsIgnoreCase("orbe") || typeWeapon.equalsIgnoreCase("daga")){
+                        || typeWeapon.equalsIgnoreCase("orbe") || typeWeapon.equalsIgnoreCase("daga")){
                     valid1 = false;
                 }else{
                     valid1 = true;
