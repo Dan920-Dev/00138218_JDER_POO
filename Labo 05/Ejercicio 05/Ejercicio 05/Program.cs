@@ -9,7 +9,6 @@ namespace Ejercicio_05
         {
             Console.Write("Digite el numero de letras que va a ingresar: ");
             int num = Convert.ToInt32(Console.ReadLine());
-
             char[] list = new char[num];
             
             Console.WriteLine("Digite las letras una por una: ");
