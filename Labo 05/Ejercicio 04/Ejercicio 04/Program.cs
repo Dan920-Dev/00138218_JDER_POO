@@ -12,7 +12,6 @@ namespace Ejercicio_04
             sentence = sentence.Replace("a", "b");
             
             Console.Write(sentence);
-
         }
     }
 }
