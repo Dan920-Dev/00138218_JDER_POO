@@ -44,7 +44,6 @@ namespace Ejercicio_03
                     Console.Write(baseNumber);
                 }
             }
-
         }
     }
 }

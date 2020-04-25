@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13ff96d3-fbd4-4881-aae0-fddbbea34b23" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Ejercicio 04/.idea/.idea.Ejercicio 04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio 04/.idea/.idea.Ejercicio 04/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="13ff96d3-fbd4-4881-aae0-fddbbea34b23" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587798811385</updated>
-      <workItem from="1587798812600" duration="1970000" />
+      <workItem from="1587798812600" duration="2249000" />
     </task>
     <servers />
   </component>
@@ -81,22 +79,22 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587800803813">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587801064257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587800803813" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1587800803813">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587801064257" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1587801064257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587800803813" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1587800803812">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587801064257" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1587801064257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587800803812" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1587800803813">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587801064257" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1587801064257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587800803813" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587801064257" />
     <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size" timestamp="1587798811492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
