@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Workspace\Programacion Orientada a Objetos\00138218_JDER_POO\Labo 05\Ejercicio 05\Ejercicio 05\bin\Debug\Ejercicio_05.exe
+C:\Users\Daniel\Documents\Workspace\Programacion Orientada a Objetos\00138218_JDER_POO\Labo 05\Ejercicio 05\Ejercicio 05\bin\Debug\Ejercicio_05.pdb
+C:\Users\Daniel\Documents\Workspace\Programacion Orientada a Objetos\00138218_JDER_POO\Labo 05\Ejercicio 05\Ejercicio 05\obj\Debug\Ejercicio 05.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\Workspace\Programacion Orientada a Objetos\00138218_JDER_POO\Labo 05\Ejercicio 05\Ejercicio 05\obj\Debug\Ejercicio_05.exe
+C:\Users\Daniel\Documents\Workspace\Programacion Orientada a Objetos\00138218_JDER_POO\Labo 05\Ejercicio 05\Ejercicio 05\obj\Debug\Ejercicio_05.pdb
