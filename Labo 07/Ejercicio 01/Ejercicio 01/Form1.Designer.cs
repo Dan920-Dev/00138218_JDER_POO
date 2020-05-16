@@ -41,11 +41,10 @@
             // 
             // label1
             // 
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Bold,
-                System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.label1.Location = new System.Drawing.Point(79, 42);
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.label1.Location = new System.Drawing.Point(68, 36);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(307, 52);
+            this.label1.Size = new System.Drawing.Size(263, 45);
             this.label1.TabIndex = 0;
             this.label1.Text = "Presiona un boton";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -53,9 +52,9 @@
             // btnRed
             // 
             this.btnRed.BackColor = System.Drawing.Color.White;
-            this.btnRed.Location = new System.Drawing.Point(30, 384);
+            this.btnRed.Location = new System.Drawing.Point(26, 333);
             this.btnRed.Name = "btnRed";
-            this.btnRed.Size = new System.Drawing.Size(104, 51);
+            this.btnRed.Size = new System.Drawing.Size(89, 44);
             this.btnRed.TabIndex = 1;
             this.btnRed.Text = "Rojo";
             this.btnRed.UseVisualStyleBackColor = false;
@@ -64,9 +63,9 @@
             // btnGreen
             // 
             this.btnGreen.BackColor = System.Drawing.Color.White;
-            this.btnGreen.Location = new System.Drawing.Point(345, 384);
+            this.btnGreen.Location = new System.Drawing.Point(296, 333);
             this.btnGreen.Name = "btnGreen";
-            this.btnGreen.Size = new System.Drawing.Size(104, 51);
+            this.btnGreen.Size = new System.Drawing.Size(89, 44);
             this.btnGreen.TabIndex = 2;
             this.btnGreen.Text = "Verde";
             this.btnGreen.UseVisualStyleBackColor = false;
@@ -75,9 +74,9 @@
             // btnBlue
             // 
             this.btnBlue.BackColor = System.Drawing.Color.White;
-            this.btnBlue.Location = new System.Drawing.Point(188, 384);
+            this.btnBlue.Location = new System.Drawing.Point(161, 333);
             this.btnBlue.Name = "btnBlue";
-            this.btnBlue.Size = new System.Drawing.Size(104, 51);
+            this.btnBlue.Size = new System.Drawing.Size(89, 44);
             this.btnBlue.TabIndex = 3;
             this.btnBlue.Text = "Azul";
             this.btnBlue.UseVisualStyleBackColor = false;
@@ -86,9 +85,9 @@
             // btnColorHEX
             // 
             this.btnColorHEX.BackColor = System.Drawing.Color.White;
-            this.btnColorHEX.Location = new System.Drawing.Point(271, 112);
+            this.btnColorHEX.Location = new System.Drawing.Point(232, 97);
             this.btnColorHEX.Name = "btnColorHEX";
-            this.btnColorHEX.Size = new System.Drawing.Size(128, 38);
+            this.btnColorHEX.Size = new System.Drawing.Size(110, 33);
             this.btnColorHEX.TabIndex = 4;
             this.btnColorHEX.Text = "Cambiar Color";
             this.btnColorHEX.UseVisualStyleBackColor = false;
@@ -96,25 +95,25 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(71, 121);
+            this.textBox1.Location = new System.Drawing.Point(61, 105);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(137, 23);
+            this.textBox1.Size = new System.Drawing.Size(118, 20);
             this.textBox1.TabIndex = 5;
             // 
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(61, 186);
+            this.comboBox1.Location = new System.Drawing.Point(52, 161);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(336, 23);
+            this.comboBox1.Size = new System.Drawing.Size(289, 21);
             this.comboBox1.TabIndex = 6;
             // 
             // btnColorOp
             // 
             this.btnColorOp.BackColor = System.Drawing.Color.White;
-            this.btnColorOp.Location = new System.Drawing.Point(175, 218);
+            this.btnColorOp.Location = new System.Drawing.Point(150, 189);
             this.btnColorOp.Name = "btnColorOp";
-            this.btnColorOp.Size = new System.Drawing.Size(128, 38);
+            this.btnColorOp.Size = new System.Drawing.Size(110, 33);
             this.btnColorOp.TabIndex = 7;
             this.btnColorOp.Text = "Cambiar Color";
             this.btnColorOp.UseVisualStyleBackColor = false;
@@ -122,9 +121,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(479, 475);
+            this.ClientSize = new System.Drawing.Size(472, 379);
             this.Controls.Add(this.btnColorOp);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.textBox1);
@@ -143,15 +142,15 @@
             this.PerformLayout();
         }
 
-        #endregion
-
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnBlue;
+        private System.Windows.Forms.Button btnColorHEX;
+        private System.Windows.Forms.Button btnColorOp;
         private System.Windows.Forms.Button btnGreen;
         private System.Windows.Forms.Button btnRed;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button btnColorHEX;
         private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.Button btnColorOp;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox textBox1;
+
+        #endregion
     }
 }

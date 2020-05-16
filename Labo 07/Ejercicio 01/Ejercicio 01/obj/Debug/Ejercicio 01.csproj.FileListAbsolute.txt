@@ -7,3 +7,7 @@ C:\Users\Daniel\Documents\Workspace\Programacion Orientada a Objetos\00138218_JD
 C:\Users\Daniel\Documents\Workspace\Programacion Orientada a Objetos\00138218_JDER_POO\Labo 07\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio_01.exe
 C:\Users\Daniel\Documents\Workspace\Programacion Orientada a Objetos\00138218_JDER_POO\Labo 07\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio_01.pdb
 C:\Users\Daniel\Documents\Workspace\Programacion Orientada a Objetos\00138218_JDER_POO\Labo 07\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio_01.Form1.resources
+C:\Users\Daniel\Documents\Workspace\Programacion Orientada a Objetos\00138218_JDER_POO\Labo 07\Ejercicio 01\Ejercicio 01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\Workspace\Programacion Orientada a Objetos\00138218_JDER_POO\Labo 07\Ejercicio 01\Ejercicio 01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Documents\Workspace\Programacion Orientada a Objetos\00138218_JDER_POO\Labo 07\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Workspace\Programacion Orientada a Objetos\00138218_JDER_POO\Labo 07\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.CopyComplete
